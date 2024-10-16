@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+}
+
+/* #main{
+    width: 50%;
+    height: 50%;
+    background-color: black;
+} */
+
+#main{
+    width: 100px;
+    height: 100px;
+    /* margin: 20px 30px 40px 50px; *//* isme values cloackwise direction me lagti hai top right bottom let */
+    margin: 10px 20px; /* yahan par values upar aur niche lagnegi */
+    background-color: yellow;
+}
